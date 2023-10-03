@@ -21,9 +21,9 @@ I'm a [AIML Aspirant] persuing [B.Tech in CSE aiml] with a strong background in 
 
 ## Connect with Me
 
-- [LinkedIn]:(https://www.linkedin.com/in/anirudh-s-nair-8488371b0/)
+- [LinkedIn](https://www.linkedin.com/in/anirudh-s-nair-8488371b0/)
 
-- [Instagram]:(https://www.instagram.com/_ani.rx.udh_/)
+- [Instagram](https://www.instagram.com/_ani.rx.udh_/)
 
 ## My GitHub Stats
 
