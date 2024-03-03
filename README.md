@@ -2,22 +2,23 @@
 
 ## About Me
 
-I'm a AIML Aspirant persuing B.Tech in CSE aiml with a strong background in Web Developing and UI/UX Designing. I'm always enthusiastic about AIML, web development and app development and love to collaborate on exciting projects that challenge my skills and knowledge.
+I'm a AIML Aspirant persuing B.Tech in CSE aiml with a strong background in Web Developing and UI/UX Designing. I'm always enthusiastic about AIML, web development and love to collaborate on exciting projects that challenge my skills and knowledge.
 
 - 🔭 I’m currently working on a CNN Project
-- 🌱 I’m currently learning React,flutter and VUE
-- 👯 I’m looking to collaborate on Web and App development and model building
-- 🤔 I’m looking for help with learning new web frameworks
+- 🌱 I’m currently learning Generative AI and Cloud Platform
+- 👯 I’m looking to collaborate on Web designing and  model building
+- 🤔 I’m looking for help with learning new web frameworks, AI and ML domain
 - 💬 Ask me about UI/UX designing
-- 📫 How to reach me: anirudhsnair09@gmail.com
+- 📫 How to reach me: anirudhsnair2508@gmail.com
 - 😄 Pronouns: his
-- ⚡ Fun fact: love designing and development and i am  persuing aiml
 
 ## Skills
 
 - UI/UX Designing
+- Python Programming
+- c programming
 - Web Development
-- App devlopment
+  
 
 ## Connect with Me
 
