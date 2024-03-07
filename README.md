@@ -20,7 +20,7 @@ I'm a AIML Aspirant persuing B.Tech in CSE aiml with a strong background in Web 
 - Web Development
 
 ## My works
-- INCLUDES BOTH TEAM AND INDIVIDUAL WORKS
+ INCLUDES BOTH TEAM AND INDIVIDUAL WORKS
 
 - [UI/UX](https://www.figma.com/file/82QslAauShEVHyu7pr8vsh/ui-works?type=design&mode=design&t=eBBHMma16ozIDQ13-1 )
 - [Website for IEEE PIE KERALA SECTION](https://pie.ieeekerala.org/ )
