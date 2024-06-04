@@ -4,9 +4,9 @@
 
 I'm a AIML Aspirant persuing B.Tech in CSE aiml with a strong background in Web Developing and UI/UX Designing. I'm always enthusiastic about AIML, web development and love to collaborate on exciting projects that challenge my skills and knowledge.
 
-- 🔭 I’m currently working on a CNN Project
-- 🌱 I’m currently learning Generative AI and Cloud Platform
-- 👯 I’m looking to collaborate on Web designing and  model building
+- 🔭 I’m currently working on  CNN Projects and some frameworks of AI/ML
+- 🌱 I’m currently learning Generative AI and Chatbot development
+- 👯 I’m looking to collaborate on Web designing and mode development projects
 - 🤔 I’m looking for help with learning new web frameworks, AI and ML domain
 - 💬 Ask me about UI/UX designing
 - 📫 How to reach me: anirudhsnair2508@gmail.com
@@ -15,6 +15,7 @@ I'm a AIML Aspirant persuing B.Tech in CSE aiml with a strong background in Web 
 ## Skills
 
 - UI/UX Designing
+- Chatbot development
 - Python Programming
 - c programming
 - Web Development
