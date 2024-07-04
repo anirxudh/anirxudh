@@ -1,7 +1,7 @@
 # Hello,
 ![Banner](https://github.com/anirxudh/Python/blob/main/Group%20265.png)
 
-![greeting](https://pin.it/PS1eBXj4C)
+![greeting](https://tenor.com/view/robot-hello-wave-hi-gif-14404937)
 
 I'm **ANIRUDH S NAIR** 👋
 
