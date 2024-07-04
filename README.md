@@ -1,7 +1,8 @@
 # Hello,
 ![Banner](https://github.com/anirxudh/Python/blob/main/Group%20265.png)
 
-![greeting](https://tenor.com/view/robot-hello-wave-hi-gif-14404937)
+![greeting]()
+<img src="[https://tenor.com/view/robot-hello-wave-hi-gif-14404937]" alt="Greeting GIF" style="width:100%; height:auto;">
 
 I'm **ANIRUDH S NAIR** 👋
 
