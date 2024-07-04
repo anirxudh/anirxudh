@@ -1,5 +1,5 @@
 # Hello, 
-![Banner]([https://via.placeholder.com/1200x400.png?text=Welcome+to+My+GitHub+Profile](https://www.figma.com/design/HAbeDVlW4X7x71kusOjc5X/Untitled?node-id=533-70&t=Wkvx51pSHkLuMMYd-1))
+![Banner]([(https://github.com/anirxudh/privt/blob/main/Group%20265.png)])
 
 I'm **ANIRUDH S NAIR** 👋
 
