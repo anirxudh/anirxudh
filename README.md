@@ -1,6 +1,8 @@
 # Hello,
 ![Banner](https://github.com/anirxudh/Python/blob/main/Group%20265.png)
 
+![greeting](https://pin.it/PS1eBXj4C)
+
 I'm **ANIRUDH S NAIR** 👋
 
 ## About Me
@@ -57,7 +59,7 @@ Feel free to explore my repositories to get a better idea of my work.
 [![trophy](https://github-profile-trophy.vercel.app/?username=anirxudh&theme=onedark)](https://github.com/anirxudh)
 
 ## Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+- [NVidia NIM Demo](https://github.com/anirxudh/NVIDIA_NIM-demo)
+- [VirtualMouse](https://github.com/anirxudh/VirtualMouse)
 
 Thanks for visiting my GitHub profile! 😊
