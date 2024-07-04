@@ -1,5 +1,5 @@
 # Hello, 
-![Banner]([(https://github.com/anirxudh/privt/blob/main/Group%20265.png)])
+![Banner]([https://github.com/anirxudh/Python/blob/main/Group%20265.png])
 
 I'm **ANIRUDH S NAIR** 👋
 
