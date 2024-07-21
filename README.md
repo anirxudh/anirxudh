@@ -33,11 +33,15 @@ I'm an AIML Aspirant pursuing B.Tech in CSE AIML with a strong background in Web
 
 ## My Works
 INCLUDES BOTH TEAM AND INDIVIDUAL WORKS
+## My Works
 
-- [UI/UX Design Portfolio](https://www.figma.com/file/82QslAauShEVHyu7pr8vsh/ui-works?type=design&mode=design&t=eBBHMma16ozIDQ13-1)
-- [Website for IEEE PIE KERALA SECTION](https://pie.ieeekerala.org/)
-- [Website for IEEE PIE: VFIESTA](https://v-fiesta2.0.pie.ieeekerala.org/index.html)
-- [Website for IEEE PIE: HUSTLECON](https://hustlecon.pie.ieeekerala.org/)
+| Project | Link |
+| --- | --- |
+| UI/UX Design Portfolio | [Figma Portfolio](https://www.figma.com/file/82QslAauShEVHyu7pr8vsh/ui-works?type=design&mode=design&t=eBBHMma16ozIDQ13-1) |
+| Website for IEEE PIE KERALA SECTION | [Visit Website](https://pie.ieeekerala.org/) |
+| Website for IEEE PIE: VFIESTA | [Visit Website](https://v-fiesta2.0.pie.ieeekerala.org/index.html) |
+| Website for IEEE PIE: HUSTLECON | [Visit Website](https://hustlecon.pie.ieeekerala.org/) |
+
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudh-s-nair-8488371b0/)
@@ -65,5 +69,10 @@ Feel free to explore my repositories to get a better idea of my work.
 ## Recent Activity
 - [NVidia NIM Demo](https://github.com/anirxudh/NVIDIA_NIM-demo)
 - [VirtualMouse](https://github.com/anirxudh/VirtualMouse)
+
+## Fun Facts
+
+- I love wooking out both my body as well as brain!
+- I enjoy exploring new trails.
 
 Thanks for visiting my GitHub profile! 😊
