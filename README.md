@@ -1,8 +1,6 @@
 # Hello,
 ![Banner](https://github.com/anirxudh/Python/blob/main/Group%20265.png)
 
-![greeting]()
-<img src="[https://tenor.com/view/robot-hello-wave-hi-gif-14404937]" alt="Greeting GIF" style="width:100%; height:auto;">
 
 I'm **ANIRUDH S NAIR** 👋
 
@@ -18,7 +16,12 @@ I'm an AIML Aspirant pursuing B.Tech in CSE AIML with a strong background in Web
 - 📫 How to reach me: [anirudhsnair2508@gmail.com](mailto:anirudhsnair2508@gmail.com)
 
 ## Skills
-![Skills](https://skillicons.dev/icons?i=python,c,html,css,js,figma,ai,ps,xd)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,r,sklearn,tensorflow,html,css,js,github,opencv,postman,figma,latex,eclipse,vscode,ai,ps,xd" />
+  </a>
+</p>
+
 
 - UI/UX Designing
 - Prompt Engineering
