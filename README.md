@@ -1,8 +1,8 @@
-# Hello,
+# Hello,I'm **ANIRUDH S NAIR** 👋
 ![Banner](https://github.com/anirxudh/Python/blob/main/Group%20265.png)
 
 
-I'm **ANIRUDH S NAIR** 👋
+
 
 ## About Me
 
