@@ -33,7 +33,6 @@ I'm an AIML Aspirant pursuing B.Tech in CSE AIML with a strong background in Web
 
 ## My Works
 INCLUDES BOTH TEAM AND INDIVIDUAL WORKS
-## My Works
 
 | Project | Link |
 | --- | --- |
@@ -65,10 +64,6 @@ Feel free to explore my repositories to get a better idea of my work.
 
 ## GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=anirxudh&theme=onedark)](https://github.com/anirxudh)
-
-## Recent Activity
-- [NVidia NIM Demo](https://github.com/anirxudh/NVIDIA_NIM-demo)
-- [VirtualMouse](https://github.com/anirxudh/VirtualMouse)
 
 ## Fun Facts
 
